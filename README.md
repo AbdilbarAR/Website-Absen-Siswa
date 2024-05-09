@@ -7,7 +7,7 @@ Source Code Absensi berbasis web yang dibuat menggunakan bahasa pemrograman PHP 
 Selain menggunakan PHP pada aplikasi. Aplikasi absensi siswa ini juga menggunakan bahasa CSS dan juga Java script pada menu yang di sediakan.
 
 ### Level Users
-- Admin (Username: bangrobin71@gmail.com ; Password: admin)
+- Admin
 - Guru
 - Siswa
 
@@ -17,6 +17,7 @@ Admin:
 - Menambahkan Daftar Mengajar
 - Menambahkan Data Guru
 - Menambahkan Data Siswa
+- (Username: bangrobin71@gmail.com ; Password: admin)
 
 Guru
 - Melihat Jadwal Mengajar
