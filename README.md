@@ -38,18 +38,17 @@ Siswa
 - Tampilan Level Admin
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20123345.png?raw=true)
 
--Tampilan Level Guru
+- Tampilan Level Guru
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121117.png?raw=true)
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121143.png?raw=true)
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121416.png?raw=true)
 
--Tampilan Level Siswa
+- Tampilan Level Siswa
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121303.png?raw=true)
 ![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121326.png?raw=true)
 
 Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web
-[Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) 
-[Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/)
+[Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/)
 
 Kelompok 2 :
 1. Azzahra ‘Aini Ma’rifah (22050974008)
